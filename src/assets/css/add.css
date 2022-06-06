@@ -1,0 +1,24 @@
+.button {
+    border: none;
+    color: white;
+    /*padding: 8px 8px;*/
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 2px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    border-radius: 15px;
+  }
+  
+  .button1 {
+    background-color: #8734c2; 
+    color: white; 
+    border: 8px 8px solid #8734c2;
+  }
+  
+  .button1:hover {
+    background-color: #ae7fd0;
+    color: white;
+  }
